@@ -1,3 +1,3 @@
 ### [Fintech w/ Python]
 
-- Navigate through branches.
+Navigate through branches.
