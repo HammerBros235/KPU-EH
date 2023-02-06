@@ -1,3 +1,3 @@
-Navigate through branches.
+### [Fintech w/ Python]
 
-Repo is currently _private_.
+- Navigate through branches.
