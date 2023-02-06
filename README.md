@@ -1,12 +1,6 @@
 # 핀테크 경진대회 메인 페이지 / Fintech Contest Presentation Main page
 
-[경진대회 정보 요약](https://www.notion.so/af0e692b19ba479d8dddeaf1392e6d2a) 
-
-## 0.  개인 페이지
-
-[전략 1](https://www.notion.so/364210f81b0445dbb32cf1e985ab64a3)
-
-[전략 2](https://www.notion.so/dc85baf6f50540b1b60cb68b3de400fd)
+## [0. 경진대회 정보 요약](https://www.notion.so/af0e692b19ba479d8dddeaf1392e6d2a) 
 
 ## 1.  전략 개념
 
