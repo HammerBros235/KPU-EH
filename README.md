@@ -4,9 +4,9 @@
 
 ## 0.  개인 페이지
 
-[전략 - 김형민](https://www.notion.so/364210f81b0445dbb32cf1e985ab64a3)
+[전략 1](https://www.notion.so/364210f81b0445dbb32cf1e985ab64a3)
 
-[전략 - 전상민](https://www.notion.so/dc85baf6f50540b1b60cb68b3de400fd)
+[전략 2](https://www.notion.so/dc85baf6f50540b1b60cb68b3de400fd)
 
 ## 1.  전략 개념
 
@@ -62,8 +62,8 @@
 - AMZN
     - 백테스팅 설정 값
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd971d68-94d4-4421-aed3-ef5a37479a30/Untitled.png)
-        
+        ![Untitled (10)](https://user-images.githubusercontent.com/84055441/217016794-45c08a2a-4ff9-4f7e-8ab2-f31f5f391bbe.png)
+
     - 성과 지표
         
         
@@ -98,13 +98,13 @@
         | 마진 콜 | 0 | 0 | 0 |
     - 거래 그래프
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e005382-d3ff-41fe-8ff7-d434457313ae/Untitled.png)
-        
+        ![Untitled (9)](https://user-images.githubusercontent.com/84055441/217016759-0f8b1922-a482-4088-9ec7-31406f794b3c.png)
+
 - APPL
     - 백테스팅 설정 값
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/740338bf-518d-4839-a554-9c1d297043a2/Untitled.png)
-        
+        ![Untitled (8)](https://user-images.githubusercontent.com/84055441/217016726-2b0ca483-01fb-43ca-b6b8-d5155f056120.png)
+
     - 성과 지표
         
         
@@ -139,13 +139,13 @@
         | 마진 콜 | 0 | 0 | 0 |
     - 거래 그래프
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53347329-42fc-4982-933e-cb7ca7611ace/Untitled.png)
-        
+        ![Untitled (7)](https://user-images.githubusercontent.com/84055441/217016677-5accc7ae-c840-40ef-acce-94574aee728d.png)
+
 - GOOGL
     - 백테스팅 설정 값
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ade2000-7242-4e89-819d-b2cd85ce1615/Untitled.png)
-    
+    ![Untitled (6)](https://user-images.githubusercontent.com/84055441/217016644-d5068920-62b5-46c4-9a89-e34166bed694.png)
+
     - 성과 지표
         
         
@@ -180,12 +180,12 @@
         | 마진 콜 | 0 | 0 | 0 |
     - 거래 그래프
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/146f65ce-7814-4def-a48b-3795c8192574/Untitled.png)
+        ![Untitled (5)](https://user-images.githubusercontent.com/84055441/217016591-0ad6878b-7666-4071-aad9-2037e253b1d4.png)
         
 - META
     - 백테스팅 설정 값
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0adfd1ab-0dee-45fb-875c-6af20ecb6f86/Untitled.png)
+    
+        ![Untitled (4)](https://user-images.githubusercontent.com/84055441/217016553-51408117-a7d2-4156-945d-35d08f49e9ac.png)
         
     - 성과 지표
         
@@ -221,12 +221,12 @@
         | 마진 콜 | 0 | 0 | 0 |
     - 거래 그래프
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e53da1e-9067-4c32-bc3c-3f829c368e24/Untitled.png)
+        ![Untitled (3)](https://user-images.githubusercontent.com/84055441/217016497-e5e61bb0-9972-4b09-b17f-59dc13ea5afb.png)
         
 - MSFT
     - 백테스팅 설정 값
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5c5e53f-4747-4a74-8279-6f6faf9d07e9/Untitled.png)
+        ![Untitled (2)](https://user-images.githubusercontent.com/84055441/217016456-d4ba0555-dd8e-4767-9bbe-f933b95b3995.png)
         
     - 성과 지표
         
@@ -262,12 +262,12 @@
         | 마진 콜 | 0 | 0 | 0 |
     - 거래 그래프
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7bf118e-e989-4dfb-a048-eeb704c4a66d/Untitled.png)
+        ![Untitled](https://user-images.githubusercontent.com/84055441/217016282-a8bdfc95-3bc6-4fe3-8348-df07b8e03906.png)
         
 - NASDAQ100
     - 백테스팅 설정 값
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d435cab3-399e-4cb9-946f-69397b8a3615/Untitled.png)
+        ![Untitled (1)](https://user-images.githubusercontent.com/84055441/217016396-ae436ecf-9717-4ab0-9d9d-9b73c60c0cdf.png)
         
     - 성과 지표
         
@@ -303,8 +303,7 @@
         | 마진 콜 | 0 | 0 | 0 |
     - 거래 그래프
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6655c34c-114c-4722-8491-c0f9a13e9604/Untitled.png)
-        
+        ![Untitled](https://user-images.githubusercontent.com/84055441/217016156-e799baff-6a38-44cf-84ac-67608e136e44.png)        
     
 - 대상별 백테스팅 종합결과
     
