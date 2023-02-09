@@ -1,4 +1,4 @@
-# 핀테크 경진대회 메인 페이지 / Fintech Contest Presentation Main page
+# 핀테크 경진대회 메인 페이지 / Fintech Contest for Stock Backtesting Algorithm - Presentation Main page
 
 ## [0. 경진대회 정보 요약](contest%20info.md) 
 
